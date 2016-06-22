@@ -23,7 +23,7 @@ Right now, I have an issue with my extensions installers for Photoshop CC 2015.5
 		* Tutorial on this extension: https://www.youtube.com/watch?v=TigG7yNuFys
 		
 #### *I'll record soon a quick tutorial on how to use this solutions!*
-* Here my previous tutorial on the Extensions: https://vimeo.com/album/1989753
+* Here my previous tutorials on my Extensions: https://vimeo.com/album/1989753
 		
 
 --
