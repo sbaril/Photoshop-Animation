@@ -22,8 +22,10 @@ Right now, I have an issue with my extensions installers for Photoshop CC 2015.5
 	* Install it and load in it my scripts (keep the PNG icons beside the JSXs).
 		* Tutorial on this extension: https://www.youtube.com/watch?v=TigG7yNuFys
 		
-#### *I'll record soon a quick tutorial on how to use this solutions!*
-* Here my previous tutorials on my Extensions: https://vimeo.com/album/1989753
+#### *Here a quick tutorial on how to use this solutions!*
+* English version: https://vimeo.com/171805158
+* French version: https://vimeo.com/171809648
+* Previous tutorials on the usage of my Extensions: https://vimeo.com/album/1989753
 		
 
 --
