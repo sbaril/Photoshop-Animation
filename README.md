@@ -32,6 +32,18 @@ Right now, I have an issue with my extensions installers for Photoshop CC 2015.5
 
 ### Future Fix for my Installers on my roadmap but…
 
-I'll have time to work on it, but anyway the Scripts will stay here in my Github :)
+I'll have to find time to work on it, but anyway the Scripts will stay here in my Github :)
+
+And thanks Davide Barranca (http://www.davidebarranca.com), I'll be able soon to publish the fix :)
+
+
+
 
 	Thanks for your patience
+
+
+--	
+
+#### *Here more infos about the amazing Davide Barranca:*
+* http://htmlpanelsbook.com/
+* http://www.davidebarranca.com/2016/06/html-panel-tips-21-photoshop-cc2015-5-2016-survival-guide/
