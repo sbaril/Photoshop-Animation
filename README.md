@@ -7,17 +7,22 @@ The 2 folders in that repository come from my 2 extensions/addons "AnimDessin2" 
 * https://creative.adobe.com/addons/products/1524
 * https://creative.adobe.com/addons/products/1592
 
+And the 2 **ZIP files** are the **Manual/Custom Installers** of **AnimDessin2** and **AnimCouleur2**.
+* Actually, **these Manual/Custom Installers are the up to date versions of the extensions** because I didn't had the time yet to fix the Addons Portal version!
+
 --
 
 ### Photoshop CC 2014, 2015 and 2015.5 Installer 
-#### *How to install AnimDessin2:*
-1. Download and Unzip **AnimDessin2-CC-2015.zip**
+#### *How to install AnimDessin2 or AnimCouleur2:*
+1. Download and Unzip **AnimDessin2-CC-2015.zip** and/or **AnimCouleur2-CC-2015.zip**
+	* Read the "README.md" or "README.pdf" file inside each Unzipped folder.
+	* AnimCouleur2 need an extra step to install the Tool Presets.
 2. Launch Photoshop and select:
 	* File > Scripts > Browse… 
-	* Browse your file system to find the "installer.jsx" file contained in the "AnimDessin2-CC-2015" unzipped folder.
+	* Browse your file system to find the "installer.jsx" file contained in the "AnimDessin2-CC-2015" and/or "AnimCouleur2-CC-2015" unzipped folder.
 	* Relaunch Photoshop 
-	* To open the panel go to the menu Window > Extensions > AnimDessin2 
-	* Please verify if the "AnimD2_…" scripts are available in the submenu: File > Scripts.
+	* To open the panel go to the menu Window > Extensions > AnimDessin2 and/or AnimCouleur2 
+	* Please verify if the "AnimD2_…" and/or "AnimC2_…" scripts are available in the submenu: File > Scripts. *(Useful if you want de define Keyboard Shortcuts).* 
 
 
 --
