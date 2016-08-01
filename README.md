@@ -3,12 +3,13 @@
 
 
 ### What are this Scripts
-The 2 folders in that repository come from my 2 extensions/addons "AnimDessin2" and "AnimCouleur2" for Photoshop CC 2014+:
+This Section on GitHub contain the Manual installer of my Photoshop Extensions dedicated to cel-animation (frame-by-frame):
 * https://creative.adobe.com/addons/products/1524
 * https://creative.adobe.com/addons/products/1592
 
-And the 2 **ZIP files** are the **Manual/Custom Installers** of **AnimDessin2** and **AnimCouleur2**.
-* Actually, **these Manual/Custom Installers are the up to date versions of the extensions** because I didn't had the time yet to fix the Addons Portal version!
+The 2 **ZIP files** are the **Manual/Custom Installers** of **AnimDessin2** and **AnimCouleur2**.
+* Actually, **these Manual/Custom Installers are the up to date versions of AnimDessin2** and **AnimCouleur2**.
+* I didn't had the time yet to fix the Addons Portal version!
 
 --
 
