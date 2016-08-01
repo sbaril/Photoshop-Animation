@@ -1,15 +1,17 @@
 # Photoshop-Animation
-##Photoshop Scripts & Panels for Animation
+##AnimDessin2 & AnimCouleur2 
 
 
-### What are this Scripts
+### Photoshop Scripts & Panels for Animation
 This Section on GitHub contain the Manual installer of my Photoshop Extensions dedicated to cel-animation (frame-by-frame):
-* https://creative.adobe.com/addons/products/1524
-* https://creative.adobe.com/addons/products/1592
+* **AnimDessin2:** This panel is designed for Photoshop CC 2014+. It allows you to draw frame-by-image animations (cel-animation like), simplifying the process. it also lets you test the movie and set the duration of a keyframe…
+* **AnimCouleur2:** This panel is available for Photoshop CC 2014+. It allows you to simplify the process of coloring frame-by-image drawing animations created with "AnimDessin2".
 
 The 2 **ZIP files** are the **Manual/Custom Installers** of **AnimDessin2** and **AnimCouleur2**.
-* Actually, **these Manual/Custom Installers are the up to date versions of AnimDessin2** and **AnimCouleur2**.
+* Actually, **these Manual/Custom Installers are the up-to-date versions of AnimDessin2** and **AnimCouleur2**.
 * I didn't had the time yet to fix the Addons Portal version!
+	* https://creative.adobe.com/addons/products/1524
+	* https://creative.adobe.com/addons/products/1592
 
 --
 
