@@ -9,10 +9,24 @@ The 2 folders in that repository come from my 2 extensions/addons "AnimDessin2" 
 
 --
 
-### Photoshop CC 2015.5 Installer Issue
-Right now, I have an issue with my extensions installers for Photoshop CC 2015.5!
+### Photoshop CC 2014, 2015 and 2015.5 Installer 
+#### *How to install AnimDessin2:*
+1. Download and Unzip **AnimDessin2-CC-2015.zip**
+2. Launch Photoshop and select:
+	* File > Scripts > Browse… 
+	* Browse your file system to find the "installer.jsx" file contained in the "AnimDessin2-CC-2015" unzipped folder.
+	* Relaunch Photoshop 
+	* To open the panel go to the menu Window > Extensions > AnimDessin2 
+	* Please verify if the "AnimD2_…" scripts are available in the submenu: File > Scripts.
 
-#### *Temporary Solutions*
+
+--
+
+### Workaround if you have any issue with the installer
+The previous installer had an issue with Photoshop CC 2015.5 but it is fixed now.
+I leave the following workaround instructions in case of anything like that happened in the future… I hope not!
+
+#### *2 possible Workaround Solutions*
 1. **Simply install the Scripts with no UI**
 	* Copy the "AnimDessin2-Scripts" and/or "AnimCouleur2-Scripts" folders in your Programs/Applications > "Adobe Photoshop CC 2015.5" (or your version) > "Presets" > "Scripts" folder.
 	* Assign Shortcuts to these Scripts using the menu "Edit" > "Keyboard Shortcuts" > "Application Menus" > "File" > "Scripts" section.
@@ -28,22 +42,12 @@ Right now, I have an issue with my extensions installers for Photoshop CC 2015.5
 * Previous tutorials on the usage of my Extensions: https://vimeo.com/album/1989753
 		
 
---
 
-### Future Fix for my Installers on my roadmap but…
-
-I'll have to find time to work on it, but anyway the Scripts will stay here in my Github :)
-
-And thanks Davide Barranca (http://www.davidebarranca.com), I'll be able soon to publish the fix :)
-
-
-
-
-	Thanks for your patience
 
 
 --	
 
-#### *Here more infos about the amazing Davide Barranca:*
+#### *My custom installers are based on the great ressources provided by Davide Barranca… A bid THANKS to him:*
+* http://www.davidebarranca.com
 * http://htmlpanelsbook.com/
 * http://www.davidebarranca.com/2016/06/html-panel-tips-21-photoshop-cc2015-5-2016-survival-guide/
