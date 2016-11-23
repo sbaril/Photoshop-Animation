@@ -17,7 +17,7 @@ The 2 **ZIP files** are the **Manual/Custom Installers** of **AnimDessin2** and 
 
 ### Photoshop CC 2017 Installer 
 #### *How to install AnimDessin2 (AnimCouleur soon):*
-1.  Downlaod "AnimDessin2_CC17.zxp" and the "AnimDessin2-Scripts" folder from my GitHub: 
+1.  **Download** "**AnimDessin2_CC17.zxp**" and the "**AnimDessin2-Scripts**" folder from my GitHub: 
 	* https://github.com/sbaril/Photoshop-Animation
 1.  **Download** the **ExtensionManager** from Anastasiy:
 http://install.anastasiy.com/
