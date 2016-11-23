@@ -15,6 +15,22 @@ The 2 **ZIP files** are the **Manual/Custom Installers** of **AnimDessin2** and 
 
 --
 
+### Photoshop CC 2017 Installer 
+#### *How to install AnimDessin2 (AnimCouleur soon):*
+1.  Downlaod "AnimDessin2_CC17.zxp" and the "AnimDessin2-Scripts" folder from my GitHub: 
+	* https://github.com/sbaril/Photoshop-Animation
+1.  **Download** the **ExtensionManager** from Anastasiy:
+http://install.anastasiy.com/
+	* **Launch ExtensionManager** and install "AnimDessin2_CC17.zxp" using one of these 2 methods:
+		1. Choose the **Install** menu and locate the "**AnimDessin2_CC17.zxp**" on your computer.
+		2. **Drag and drop** the "**AnimDessin2_CC17.zxp**" file on the **ExtensionManager window**.
+2. **Launch Photoshop**:
+	* To open the panel go to the menu **Window** > **Extensions** > **AnimDessin2** (and/or AnimCouleur2) 
+	* Please verify if the "AnimD2_…" (and/or "AnimC2_…") scripts are available in the submenu: File > Scripts. *(Useful if you want de define Keyboard Shortcuts).* 
+
+
+--
+
 ### Photoshop CC 2014, 2015 and 2015.5 Installer 
 #### *How to install AnimDessin2 or AnimCouleur2:*
 1. Download and Unzip **AnimDessin2-CC-2015.zip** and/or **AnimCouleur2-CC-2015.zip**
