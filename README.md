@@ -26,7 +26,7 @@ http://install.anastasiy.com/
 		2. **Drag and drop** the "**AnimDessin2_CC17.zxp**" file on the **ExtensionManager window**.
 2. **Launch Photoshop**:
 	* To open the panel go to the menu **Window** > **Extensions** > **AnimDessin2** (and/or AnimCouleur2) 
-	* Please verify if the "AnimD2_…" (and/or "AnimC2_…") scripts are available in the submenu: File > Scripts. *(Useful if you want de define Keyboard Shortcuts).* 
+	* Please verify if the "AnimD2_…" (and/or "AnimC2_…") scripts are available in the submenu: **File** > **Scripts**. *(Useful if you want de define Keyboard Shortcuts).* 
 
 
 --
