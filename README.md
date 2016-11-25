@@ -39,7 +39,7 @@ http://install.anastasiy.com/
 4. **Launch Photoshop**:
 	* To open the panel go to the menu **Window** > **Extensions** > **AnimDessin2** and/or **AnimCouleur2**.
 	* Please verify if the "AnimD2_…" and/or "AnimC2_…" scripts are available in the submenu: **File** > **Scripts**. *(Useful if you want de define Keyboard Shortcuts).* 
-	* For AnimCouleur2, load "**AnimCouleur2_Tools**" from the **Tool Presets flyout menu**.
+	* For AnimCouleur2, load "**AnimCouleur2_Tools**" from the **Tool Presets Panel flyout menu**.
 	* Quit Photoshop to automatically save the Presets Preferences (Tools loaded and Keyboard Shortcuts). *In case of you'll crash Photoshop that will prevent you to do these steps again!* 
 	* **Relaunch Photoshop** and you're **ready** to go :)
 
