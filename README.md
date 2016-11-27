@@ -23,8 +23,8 @@ The 2 **ZXP files** are the **Installers** of **AnimDessin2** and **AnimCouleur2
 *Installer compatible with the Photoshop versions from CC 2014 to CC 2017+*
 #### *How to install AnimDessin2 and AnimCouleur2:*
 1.  **Download** the **installers**/**ressources**:
-	* For **AnimDessin2**, download "**AnimDessin2_CC17.zxp**" and "**AnimDessin2-Scripts**" folder from my GitHub. 
-	* For **AnimCouleur2**, download "**AnimCouleur2_CC17.zxp**", "**AnimCouleur2_Tools.tpl**", and "**AnimCouleur2-Scripts**" folder from my GitHub.
+	* For **AnimDessin2**, download "**AnimDessin2_CC17.zxp**" and "**AnimDessin2-Presets.zip**" folder from my GitHub. 
+	* For **AnimCouleur2**, download "**AnimCouleur2_CC17.zxp**" and "**AnimCouleur2-Presets.zip**" folder from my GitHub.
 	* Here my GitHub: https://github.com/sbaril/Photoshop-Animation
 	* *BTW: in my tests this installer also works for CC 2014, 2015 and 2015.5.*
 2.  **Download** the **ExtensionManager** from Anastasiy:
@@ -33,6 +33,7 @@ http://install.anastasiy.com/
 		1. Choose the **Install** menu and locate the "**AnimDessin2_CC17.zxp**" on your computer.
 		2. **Drag and drop** the "**AnimDessin2_CC17.zxp**" file on the **ExtensionManager window**.
 3. **Extension Presets** Manual **Installation**:
+	* Unzip "**AnimDessin2-Presets.zip**" and/or "**AnimCouleur2-Presets.zip**".
 	* **Copy** the "**AnimDessin2-Scripts**" and/or "**AnimCouleur2-Scripts**" folders in your Programs/Applications > "Adobe Photoshop CC 2017" (or your version: CC 2014, 2015, 2015.5 or 2017) > "Presets" > "**Scripts**" folder.
 	* **Tips**: Assign Shortcuts to these Scripts using the menu "Edit" > "Keyboard Shortcuts" > "Application Menus" > "File" > "Scripts" section.
 	* **Copy** the "**AnimCouleurs2_Tools.tpl**" file in your Programs/Applications > "Adobe Photoshop CC 2017" (or your version: CC 2014, 2015, 2015.5 or 2017) > "Presets" > "**Tools**" folder.
@@ -48,7 +49,7 @@ http://install.anastasiy.com/
 
 ### Archive: *"Photoshop CC 2014, 2015 and 2015.5 Installer"* 
 #### *How to install AnimDessin2 or AnimCouleur2:*
-1. Download and Unzip **AnimDessin2-CC-2015.zip** and/or **AnimCouleur2-CC-2015.zip**
+1. Download and Unzip **Archive-AnimDessin2-CC-2015.zip** and/or **Archive-AnimCouleur2-CC-2015.zip**
 	* Read the "README.md" or "README.pdf" file inside each Unzipped folder.
 	* AnimCouleur2 need an extra step to install the Tool Presets.
 2. Launch Photoshop and select:
