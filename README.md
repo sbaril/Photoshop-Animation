@@ -20,7 +20,7 @@ The 2 **ZXP files** are the **Installers** of **AnimDessin2** and **AnimCouleur2
 --
 
 ### Photoshop CC 2017 Installer 
-*Installer compatible with the Photoshop versions from CC 2014 to CC 2017+*
+*Installer compatible with the Photoshop versions from CC 2014 to CC 2018+*
 #### *How to install AnimDessin2 and AnimCouleur2:*
 1.  **Download** the **installers**/**ressources**:
 	* For **AnimDessin2**, download "**AnimDessin2_CC17.zxp**" and "**AnimDessin2-Presets.zip**" folder from my GitHub. 
