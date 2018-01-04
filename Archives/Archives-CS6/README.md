@@ -30,6 +30,7 @@ So, try first the "Photoshop CS6 Installer" process and â€“ if it doesn't work â
 #### *How to install AnimDessin2 or AnimCouleur2:*
 1. Download and Unzip **AnimDessin2-CS6.zip** and/or **AnimCouleur2-CS6.zip** from the "1-ZXPs-Installers" folder.
 	* Launch **Adobe Extension Manager CS6** to install the ZXP file you need: **AnimDessin2-CS6.zxp** or **AnimCouleur2-CS6.zxp**
+	* *You can find Adobe Extension Manager CS6 here:* https://www.adobe.com/exchange/em_updates/
 2. If you want to Assign Keyboard Shortcuts to AnimDessin and AnimCouleur buttons, you need to install manually the Scripts:
 	* Copy the "AnimCouleur2-Scripts" or "AnimDessin2-Scripts" folder from the "4-Addons-Ressources" folder.
 		* Paste it in the Programs/Applications > "Adobe Photoshop CS6" > "Presets" > "Scripts" folder.
