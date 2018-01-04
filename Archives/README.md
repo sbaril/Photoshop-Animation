@@ -1,9 +1,5 @@
 # Photoshop-Animation
-<<<<<<< Updated upstream
 ## AnimDessin2 & AnimCouleur2 
-=======
-##AnimDessin2 & AnimCouleur2##
->>>>>>> Stashed changes
 
 
 ### Photoshop Scripts & Panels for Animation
