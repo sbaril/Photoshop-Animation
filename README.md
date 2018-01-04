@@ -1,5 +1,5 @@
 # Photoshop-Animation
-##AnimDessin2 & AnimCouleur2##
+## AnimDessin2 & AnimCouleur2
 
 
 ### Photoshop Scripts & Panels for Animation
