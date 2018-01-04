@@ -29,7 +29,7 @@ The 2 **ZXP files** are the **Installers** of **AnimDessin2** and **AnimCouleur2
 	* Here my GitHub: https://github.com/sbaril/Photoshop-Animation
 	* *BTW: in my tests this installer also works for CC 2014, 2015 and 2015.5.*
 2.  **Download** the **ExtensionManager** from Anastasiy:
-http://install.anastasiy.com/
+http://install.anastasiy.com/ or download **ZXPInstaller** from Creative Do: http://zxpinstaller.com/
 	* **Launch ExtensionManager** and install "AnimDessin2_CC17.zxp" using one of these 2 methods:
 		1. Choose the **Install** menu and locate the "**AnimDessin2_CC17.zxp**" on your computer.
 		2. **Drag and drop** the "**AnimDessin2_CC17.zxp**" file on the **ExtensionManager window**.
