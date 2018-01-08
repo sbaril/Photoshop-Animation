@@ -1,0 +1,38 @@
+/*
+This stylesheet represents CC app styles
+Empty classes will be edited at runtime with dynamic app values
+*/
+button
+{
+    border:0px none;
+    border-radius:4px;
+    height:auto;
+    vertical-align:bottom;
+    font-family:inherit;
+    color:inherit; 
+    font-size:2em;
+}
+
+input[type="radio"] {
+    -webkit-appearance: none;
+    display:inline-block;    
+    margin:2px;
+    width:12px;
+    height:12px;
+    background-color: #AAAAAA;
+    //border-color: #AAAAAA;
+    //border-style:solid;
+    border-radius:6px;    
+}
+input[type="radio"] + label{
+    display:inline-block;
+    vertical-align:super;
+}
+input[type="radio"]:checked {
+    background-color: #333333;
+}
+
+.hostFont{}
+.hostBgd{}
+.hostElt{}
+

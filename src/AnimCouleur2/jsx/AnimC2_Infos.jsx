@@ -1,0 +1,1 @@
+﻿#target photoshopalert('Important Infos \nThis panel use some Custom Tools named "AnimCouleur2_Tools". \n\nYou need to load them from the menu (top right corner) of the Tool Presets panel. \n\n--------\n\nIf you need to override some options in one of these tools, just modify it and save it with the same name (replace it).');

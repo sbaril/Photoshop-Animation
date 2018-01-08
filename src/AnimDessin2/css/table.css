@@ -1,0 +1,23 @@
+.table {
+    display: table;
+    table-layout:auto;
+    //width: 100%;
+}
+
+.table2 {
+    display: table;
+    table-layout: fixed;
+    width: 100%;
+}
+
+.tr {
+    display: table-row;
+    width: 100%;
+}
+
+.td {
+    display: table-cell;
+    text-align:center;
+    padding:1px;
+}
+

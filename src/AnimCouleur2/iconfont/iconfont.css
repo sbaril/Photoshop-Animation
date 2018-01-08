@@ -1,0 +1,127 @@
+@charset "UTF-8";
+
+@font-face {
+  font-family: "animcouleur2-iconfont";
+  src:url("fonts/animcouleur2-iconfont.eot");
+  src:url("fonts/animcouleur2-iconfont.eot?#iefix") format("embedded-opentype"),
+    url("fonts/animcouleur2-iconfont.woff") format("woff"),
+    url("fonts/animcouleur2-iconfont.ttf") format("truetype"),
+    url("fonts/animcouleur2-iconfont.svg#animcouleur2-iconfont") format("svg");
+  font-weight: normal;
+  font-style: normal;
+
+}
+
+[data-icon]:before {
+  font-family: "animcouleur2-iconfont" !important;
+  content: attr(data-icon);
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-"]:before,
+[class*=" icon-"]:before {
+  font-family: "animcouleur2-iconfont" !important;
+  font-style: normal !important;
+  font-weight: normal !important;
+  font-variant: normal !important;
+  text-transform: none !important;
+  speak: none;
+  line-height: 1;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-newemptyvideo:before {
+  content: "a";
+}
+.icon-infos:before {
+  content: "b";
+}
+.icon-colorpicker:before {
+  content: "c";
+}
+.icon-penciltool:before {
+  content: "d";
+}
+.icon-magicwandtool:before {
+  content: "e";
+}
+.icon-electionexpands:before {
+  content: "f";
+}
+.icon-selectioncontract:before {
+  content: "g";
+}
+.icon-fill:before {
+  content: "h";
+}
+.icon-deselect:before {
+  content: "i";
+}
+.icon-expand1fillnext:before {
+  content: "j";
+}
+.icon-expand2fillnext:before {
+  content: "k";
+}
+.icon-lassotool:before {
+  content: "l";
+}
+.icon-paintbuckettool:before {
+  content: "m";
+}
+.icon-brushtool:before {
+  content: "n";
+}
+.icon-mixerbrushtool:before {
+  content: "o";
+}
+.icon-smudgetool:before {
+  content: "p";
+}
+.icon-newvideoshadow:before {
+  content: "q";
+}
+.icon-newvideolight:before {
+  content: "r";
+}
+.icon-duplicateframe:before {
+  content: "s";
+}
+.icon-deleteframe:before {
+  content: "t";
+}
+.icon-duplicateframereselect:before {
+  content: "u";
+}
+.icon-freetransform:before {
+  content: "v";
+}
+.icon-warp:before {
+  content: "w";
+}
+.icon-puppetwarp:before {
+  content: "x";
+}
+.icon-brushtoolclose:before {
+  content: "y";
+}
+.icon-paintbuckettoolall:before {
+  content: "z";
+}
+.icon-penciltoolclose:before {
+  content: "A";
+}
+.icon-magicwandtoolall:before {
+  content: "B";
+}
+.icon-paintbuckettoolall2:before {
+  content: "C";
+}
