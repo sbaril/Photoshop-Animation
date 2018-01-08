@@ -16,7 +16,7 @@ This Section on GitHub contain the Manual installer of my Photoshop Extensions d
 
 *For* ***CS6 users***, please follow this link:* https://github.com/sbaril/Photoshop-Animation/tree/cs6
 
-####CEP Resources####
+**CEP Resources:**
 https://github.com/Adobe-CEP/CEP-Resources
 
 **For non-dev people willing to work on a custom version:** You'll need to activate the Debug mode and to place a ".debug" file in the root folder of your extension.
