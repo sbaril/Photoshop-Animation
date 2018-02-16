@@ -25,6 +25,8 @@ The 2 **ZXP files** are the **Installers** of **AnimDessin2** and **AnimCouleur2
 
 *For* ***CS6 users***, please follow this link:* https://github.com/sbaril/Photoshop-Animation/tree/cs6
 
+Here a video explaining the process: https://vimeo.com/album/2941805/video/193246288
+
 #### *How to install AnimDessin2 and AnimCouleur2:*
 1.  **Download** the **installers**/**ressources**:
 	* For **AnimDessin2**, download "**AnimDessin2_CC17.zxp**" and "**AnimDessin2-Presets**" folder from my GitHub. 
