@@ -27,7 +27,7 @@ So, try first the "Photoshop CS6 Installer" process and – if it doesn't work �
 --
 
 ### Archive: *"Photoshop CS6 Installer"* 
-#### *How to install AnimDessin2 or AnimCouleur2:*
+#### *How to install AnimDessin2 or AnimCouleur2: [ZXP DOESN'T WORK ANYMORE]–[PLEASE USE THE WORKAROUNDS]*
 1. Download and Unzip **AnimDessin2-CS6.zip** and/or **AnimCouleur2-CS6.zip** from the "1-ZXPs-Installers" folder.
 	* Launch **Adobe Extension Manager CS6** to install the ZXP file you need: **AnimDessin2-CS6.zxp** or **AnimCouleur2-CS6.zxp**
 	* *You can find Adobe Extension Manager CS6 here:* https://www.adobe.com/exchange/em_updates/
