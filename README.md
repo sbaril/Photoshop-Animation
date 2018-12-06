@@ -15,13 +15,23 @@ The 2 **ZXP files** are the **Installers** of **AnimDessin2** and **AnimCouleur2
 	* https://exchange.adobe.com/addons/products/1592
 
 **Tutorials** and **Infos** on my Animation Extensions: 
-* https://kixtag.com/anim
+* http://sbaril.me/links
 * https://vimeo.com/album/1989753
 
 --
 
-### Photoshop CC 2017 Installer 
-*Installer compatible with the Photoshop versions from* ***CC 2014*** *to* ***CC 2018+***
+### Quick explanation in 4 steps of the installation process:
+1. Download this free software: http://install.anastasiy.com/ 
+2. Download **"AnimDessin2_CC17.zxp"** from my GitHub
+3. And **drag it** on **Anastasiy ExtensionManager** (on Windows run it as administrator)
+4. Restart Photoshop 
+
+*For more details (settings, loading tools…) AND if you want to use **Keyboard Shortcuts**, please read below.*
+
+
+--
+### Photoshop CC 2017 (and more) Installer 
+*Installer compatible with the Photoshop versions from* ***CC 2014*** *to* ***CC 2019+***
 
 *For* ***CS6 users***, please follow this link:* https://github.com/sbaril/Photoshop-Animation/tree/cs6
 
