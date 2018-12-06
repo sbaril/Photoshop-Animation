@@ -21,7 +21,7 @@ The 2 **ZXP files** are the **Installers** of **AnimDessin2** and **AnimCouleur2
 --
 
 ### Quick explanation in 4 steps of the installation process:
-1. Download this free software: http://install.anastasiy.com/  (btw take a lot at the great http://anastasiy.com/ plug-ins)
+1. Download this free software: http://install.anastasiy.com/  (btw take a look at the great http://anastasiy.com/ plug-ins)
 2. Download "**AnimDessin2_CC17.zxp**" and/or "**AnimCouleur2_CC17.zxp**" from my GitHub
 3. And **drag it** on **Anastasiy ExtensionManager** (on Windows run it as administrator)
 4. Restart Photoshop 
