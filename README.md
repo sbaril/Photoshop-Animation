@@ -5,8 +5,8 @@
 
 ### Photoshop Scripts & Panels for Animation
 This Section on GitHub contain the Manual installer of my Photoshop Extensions dedicated to cel-animation (frame-by-frame):
-* **AnimDessin2:** This panel is designed for Photoshop CC 2014 to CC 2019+. It allows you to draw frame-by-image animations (cel-animation like), simplifying the process. it also lets you test the movie and set the duration of a keyframe…
-* **AnimCouleur2:** This panel is available for Photoshop CC 2014 to CC 2019+. It allows you to simplify the process of coloring frame-by-image drawing animations created with "AnimDessin2".
+* **AnimDessin2:** This panel is designed for Photoshop CC 2014 to CC 2020+. It allows you to draw frame-by-image animations (cel-animation like), simplifying the process. it also lets you test the movie and set the duration of a keyframe…
+* **AnimCouleur2:** This panel is available for Photoshop CC 2014 to CC 2020+. It allows you to simplify the process of coloring frame-by-image drawing animations created with "AnimDessin2".
 
 The 2 **ZXP files** are the **Installers** of **AnimDessin2** and **AnimCouleur2**.
 * Actually, **these Installers are the up-to-date versions of AnimDessin2** and **AnimCouleur2**.
@@ -30,8 +30,8 @@ The 2 **ZXP files** are the **Installers** of **AnimDessin2** and **AnimCouleur2
 *For more details (settings, loading tools…) AND if you want to use **Keyboard Shortcuts**, please read below.*
 
 --
-### Photoshop CC 2019 (and more) Installer 
-*Installer compatible with the Photoshop versions from* ***CC 2014*** *to* ***CC 2019+***
+### Photoshop CC 2020 (and more) Installer 
+*Installer compatible with the Photoshop versions from* ***CC 2014*** *to* ***CC 2020+***
 
 *For* ***CS6 users***, please follow this link:* https://github.com/sbaril/Photoshop-Animation/tree/cs6
 
@@ -43,7 +43,7 @@ Here a video explaining the process: https://vimeo.com/album/2941805/video/19324
 	* For **AnimDessin2**, download "**AnimDessin2_CC18.zxp**" and "**AnimDessin2-Presets**" folder from my GitHub. 
 	* For **AnimCouleur2**, download "**AnimCouleur2_CC18.zxp**" and "**AnimCouleur2-Presets**" folder from my GitHub.
 	* Here my GitHub: https://github.com/sbaril/Photoshop-Animation
-	* *BTW: in my tests this installer also works for CC 2014 to CC 2019.*
+	* *BTW: in my tests this installer also works for CC 2014 to CC 2020.*
 2.  **Download** the **ExtensionManager** from Anastasiy:
 http://install.anastasiy.com/ or download **ZXPInstaller** from Creative Do: http://zxpinstaller.com/
 	* **Launch ExtensionManager** and install "AnimDessin2_CC18.zxp" using one of these 2 methods:
@@ -51,9 +51,9 @@ http://install.anastasiy.com/ or download **ZXPInstaller** from Creative Do: htt
 		2. **Drag and drop** the "**AnimDessin2_CC18.zxp**" file on the **ExtensionManager window**.
 3. **Extension Presets** Manual **Installation**:
 	* Downolad and open "**AnimDessin2-Presets**" and/or "**AnimCouleur2-Presets**".
-	* **Copy** the "**AnimDessin2-Scripts**" and/or "**AnimCouleur2-Scripts**" folders in your Programs/Applications > "Adobe Photoshop CC 2019" (or your version: CC 2014, 2015, 2015.5, 2017 or 2018) > "Presets" > "**Scripts**" folder.
+	* **Copy** the "**AnimDessin2-Scripts**" and/or "**AnimCouleur2-Scripts**" folders in your Programs/Applications > "Adobe Photoshop CC 2020" (or your version: CC 2014, 2015, 2015.5, 2017, 2018 or 2019) > "Presets" > "**Scripts**" folder.
 	* **Tips**: Assign Shortcuts to these Scripts using the menu "Edit" > "Keyboard Shortcuts" > "Application Menus" > "File" > "Scripts" section.
-	* **Copy** the "**AnimCouleurs2_Tools.tpl**" file in your Programs/Applications > "Adobe Photoshop CC 2019" (or your version: CC 2014, 2015, 2015.5, 2017 or 2018) > "Presets" > "**Tools**" folder.
+	* **Copy** the "**AnimCouleurs2_Tools.tpl**" file in your Programs/Applications > "Adobe Photoshop CC 2020" (or your version: CC 2014, 2015, 2015.5, 2017, 2018 or 2019) > "Presets" > "**Tools**" folder.
 4. **Launch Photoshop**:
 	* To open the panel go to the menu **Window** > **Extensions** > **AnimDessin2** and/or **AnimCouleur2**.
 	* Please verify if the "AnimD2_…" and/or "AnimC2_…" scripts are available in the submenu: **File** > **Scripts**. *(Useful if you want de define Keyboard Shortcuts).* 
