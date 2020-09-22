@@ -16,8 +16,8 @@ The 2 **ZXP files** are the **Installers** of **AnimDessin2** and **AnimCouleur2
 
 **Tutorials** and **Infos** on my Animation Extensions: 
 * http://sbaril.me/links
-* https://vimeo.com/album/1989753
-* **How to install my Extensions: https://vimeo.com/193246288** *(quick summary below)*
+* https://www.youtube.com/playlist?list=PLnNlOgl2T6GAsPqZDaf57TAqBa6ltL_gQ
+* **How to install my Extensions: https://www.youtube.com/watch?v=pK_hnoUUvfk&t=1s** *(quick summary below)*
 
 --
 
