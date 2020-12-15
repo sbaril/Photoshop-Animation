@@ -14,8 +14,7 @@ The 2 **ZXP files** are the **Installers** of **AnimDessin2** and **AnimCouleur2
 	* https://exchange.adobe.com/addons/products/1592
 
 **Tutorials** and **Infos** on my Animation Extensions: 
-* https://kixtag.com/anim
-* https://vimeo.com/album/1989753
+* https://sbaril.myportfolio.com/links
 
 --
 
@@ -69,9 +68,7 @@ If you have any issue with the ZXP installation, please use one of the following
 --
 		
 #### *Here a quick tutorial on how to use this Extensions!*
-* English version: https://vimeo.com/album/1989753/video/44572211
-* French version: https://vimeo.com/album/1989753/video/44572565
-* Previous tutorials on the usage of my Extensions: https://vimeo.com/album/1989753
+* English and French versions: https://www.youtube.com/playlist?list=PLnNlOgl2T6GAsPqZDaf57TAqBa6ltL_gQ
 
 
 
